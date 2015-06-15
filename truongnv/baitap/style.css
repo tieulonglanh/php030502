@@ -1,0 +1,602 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+#body{
+    width: 1366px;
+    height: 1500px;
+}
+#top{
+    width: 1366px;
+    height: 300px;
+    margin: auto;
+}
+#left-top{
+    width: 200px;
+    height: 300px;
+    background: #1a5076;
+    float: left;
+}
+.logo-profile{
+    padding-left: 50px;
+    padding-top: 10px;
+    position: absolute;
+}
+#left-top p{
+    padding-left: 70px;
+    padding-top: 180px;
+    font-size: 25px;
+    color: white;
+}
+#right-top{
+    background: #e1e8eb;
+    height: 300px;
+    width: 1166px;
+    float: right;
+    position: relative;
+}
+#content-top{
+    width: 1166px;
+    height: 205px;
+}
+.square{
+    width: 150px;
+    height: 170px;
+    padding-top: 30px;
+    padding-left: 130px;
+    float: left;
+}
+.info-top{
+    width: 600px;
+    height: 205px;
+    float: left;
+    padding-left: 50px;
+}
+.name{
+    font-size: 40px;
+    line-height: 0px;
+    padding-top: 30px;
+    padding-left: 20px;
+    height: 100px;
+}
+.email{
+    width: 250px;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    float: left
+}
+.logo-email{
+    width: 30px;
+    float: left;
+    padding-top: 23px;
+}
+.email p{
+    font-size: 25px;
+    padding-left: 5px;
+    width: 200px;
+    float: left;
+}
+.phone{
+    width: 250px;
+    height: 50px;
+    padding-top: 17px;
+    padding-left: 20px;
+    float: right;
+}
+.logo-phone{
+    width: 30px;
+    float: left;
+    padding-top: 23px;
+}
+.phone p{
+    font-size: 25px;
+    padding-left: 5px;
+    width: 200px;
+    float: left;
+}
+.resume{
+    background-image: url('images/logo-ribbon.png');
+    background-repeat: no-repeat;
+    height: 170px;
+    width: 150px;
+    float: right;
+    padding-right: 50px;
+}
+.resume p{
+    float: right;
+    margin-right: 85px;
+    margin-top: 50px;
+    color: white;
+    font-size: 20px;
+     transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+}
+hr{width: 910px;}
+
+#bot-content-top{
+    width: 1166px;
+    height: 50px;
+}
+.portfolio{
+    width: 90px;
+    height: 50px;
+    text-align: center;
+    padding-left: 120px;
+    float: left;
+}
+.portfolio p{
+    padding-top: 5px;
+}
+.facebook{
+    width: 290px;
+    height: 50px;
+    float: left;
+}
+.logo-fb{
+    width: 40px;
+    height: 30px;
+    float: left;
+    padding-top: 15px;
+}
+.facebook p{
+    padding-top: 5px;
+}
+.twitter{
+    width: 290px;
+    height: 50px;
+    float: left;
+}
+.logo-tw{
+    width: 40px;
+    height: 30px;
+    float: left;
+    padding-top: 15px;
+}
+.twitter p{
+    padding-top: 5px;
+}
+.behance{
+    width: 290px;
+    height: 50px;
+    float: left;
+}
+.logo-bh{
+    width: 40px;
+    height: 30px;
+    float: left;
+    padding-top: 15px;
+}
+.behance p{
+    padding-top: 5px;
+}
+#container{
+    width: 1366px;
+    height: 300px;
+}
+#left-container{
+    width: 200px;
+    height: 300px;
+    float: left;
+    background: #4f80a2;
+}
+.logo-workexpress{
+    padding-left: 50px;
+    padding-top: 10px;
+    position: absolute;
+}
+#left-container p{
+    padding-left: 70px;
+    padding-top: 180px;
+    font-size: 25px;
+    color: white;
+}
+
+#right-container{
+    width: 1166px;
+    height: 300px;
+    float: right;
+    position: relative;
+    background: #dce5ea;
+}
+#text-work1{
+    width: 1166px;
+    height: 100px;
+}
+.graphic{
+    width: 300px;
+    height: 100px;
+    float: left;
+    line-height: 2px;
+    padding-left: 130px;
+}
+.graphic1{
+    width: 500px;
+    height: 100px;
+    float: right;
+    line-height: 0px;
+}
+#text-work2{
+    width: 1166px;
+    height: 100px;
+}
+.production{
+    width: 300px;
+    height: 100px;
+    float: left;
+    line-height: 2px;
+    padding-left: 130px;
+}
+.graphic2{
+    width: 500px;
+    height: 100px;
+    float: right;
+    line-height: 0px;
+}
+#text-work3{
+    width: 1166px;
+    height: 100px;
+}
+.creative{
+    width: 300px;
+    height: 100px;
+    float: left;
+    line-height: 2px;
+    padding-left: 130px;
+}
+.graphic3{
+    width: 500px;
+    height: 100px;
+    float: right;
+    line-height: 0px;
+}
+#main{
+    width: 1366px;
+    height: 400px;
+}
+#left-main{
+    width: 200px;
+    height: 400px;
+    background: #96b3b0;
+    float: left;
+}
+.logo-education{
+    padding-left: 50px;
+    padding-top: 60px;
+    position: absolute;
+}
+#left-main p{
+    padding-left: 70px;
+    padding-top: 240px;
+    font-size: 25px;
+    color: white;
+}
+#right-main{
+    width: 1166px;
+    height: 400px;
+    float: right;
+    position: relative;
+    background: #e7edec;
+}
+#text-main1{
+    width: 1166px;
+    height: 100px;
+}
+.group1{
+    width: 300px;
+    height: 100px;
+    float: left;
+    line-height: 2px;
+    padding-left: 130px;
+}
+.group2{
+    width: 500px;
+    height: 100px;
+    float: right;
+    line-height: 0px;
+}
+#text-main2{
+    width: 1166px;
+    height: 100px;
+}
+.group3{
+    width: 300px;
+    height: 100px;
+    float: left;
+    line-height: 2px;
+    padding-left: 130px;
+}
+.group4{
+    width: 500px;
+    height: 100px;
+    float: right;
+    line-height: 0px;
+}
+#text-main3{
+    width: 1166px;
+    height: 100px;
+}
+.group5{
+    width: 300px;
+    height: 100px;
+    float: left;
+    line-height: 2px;
+    padding-left: 130px;
+}
+.group6{
+    width: 500px;
+    height: 100px;
+    float: right;
+    line-height: 0px;
+}
+#text-main4{
+    width: 1166px;
+    height: 100px;
+}
+.group7{
+    width: 300px;
+    height: 100px;
+    float: left;
+    line-height: 2px;
+    padding-left: 130px;
+}
+.group8{
+    width: 500px;
+    height: 100px;
+    float: right;
+    line-height: 0px;
+}
+#bottom{
+    width: 1366px;
+    height: 500px;
+}
+#left-bottom{
+    width: 200px;
+    height: 500px;
+    background: #bfb28f;
+    float: left;
+}
+.logo-skills{
+    padding-left: 50px;
+    padding-top: 120px;
+    position: absolute;
+}
+#left-bottom p{
+    padding-left: 70px;
+    padding-top: 290px;
+    font-size: 25px;
+    color: white;
+}
+#right-bottom{
+    width: 1166px;
+    height: 500px;
+    float: right;
+    background: #edede8;
+    position: relative;
+}
+#text-bottom1{
+    width: 1166px;
+    height: 100px;
+}
+.photoshop{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+.text-pts{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 20px;
+    padding-left: 130px;
+    font-size: 20px;
+    
+}
+.pic-pts{
+    width: 300px;
+    height: 100px;
+    float: right;
+    padding-top: 30px;
+}
+.illustrator{
+    width: 500px;
+    height: 100px;
+    float: right;
+}
+.pic-illu{
+    width: 300px;
+    height: 100px;
+    float: left;
+    padding-top: 30px;
+}
+.text-illu{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+#text-bottom2{
+    width: 1166px;
+    height: 100px;
+}
+.html{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+.text-html{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 20px;
+    padding-left: 130px;
+    font-size: 20px;
+    
+}
+.pic-html{
+    width: 300px;
+    height: 100px;
+    float: right;
+    padding-top: 30px;
+}
+.drawing{
+    width: 500px;
+    height: 100px;
+    float: right;
+}
+.pic-drwawing{
+    width: 300px;
+    height: 100px;
+    float: left;
+    padding-top: 30px;
+}
+.text-drawing{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+#text-bottom3{
+    width: 1166px;
+    height: 100px;
+}
+.java{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+.text-java{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 20px;
+    padding-left: 130px;
+    font-size: 20px;
+    
+}
+.pic-java{
+    width: 300px;
+    height: 100px;
+    float: right;
+    padding-top: 30px;
+}
+.php{
+    width: 500px;
+    height: 100px;
+    float: right;
+}
+.pic-php{
+    width: 300px;
+    height: 100px;
+    float: left;
+    padding-top: 30px;
+}
+.text-php{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+#text-bottom4{
+    width: 1166px;
+    height: 100px;
+}
+.english{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+.text-eg{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 20px;
+    padding-left: 130px;
+    font-size: 20px;
+    
+}
+.pic-eg{
+    width: 300px;
+    height: 100px;
+    float: right;
+    padding-top: 30px;
+}
+.german{
+    width: 500px;
+    height: 100px;
+    float: right;
+}
+.pic-german{
+    width: 300px;
+    height: 100px;
+    float: left;
+    padding-top: 30px;
+}
+.text-german{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+#text-bottom5{
+    width: 1166px;
+    height: 100px;
+}
+.spanish{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+.text-span{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 20px;
+    padding-left: 130px;
+    font-size: 20px;
+    
+}
+.pic-span{
+    width: 300px;
+    height: 100px;
+    float: right;
+    padding-top: 30px;
+}
+.arabic{
+    width: 500px;
+    height: 100px;
+    float: right;
+}
+.pic-arabic{
+    width: 300px;
+    height: 100px;
+    float: left;
+    padding-top: 30px;
+}
+.text-arabic{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 0;
+    padding-top: 15px;
+    font-size: 20px;
+}
