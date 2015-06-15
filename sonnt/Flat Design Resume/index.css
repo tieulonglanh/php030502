@@ -1,0 +1,188 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    font-size: 45px;
+}
+.container{
+    margin: 0 auto;
+    width: 2550px;
+    height: 3300px;
+}
+.my-profile{
+    height: 824px;
+    width: 500px;
+    float: left;
+    background: url('images/my-pro.png') no-repeat;
+}
+.main{
+    width: 2050px;
+    height: 824px;
+    float: left;
+    background: #ccffff;
+}
+.icon{
+    margin-left: 183px;
+    margin-top: 126px;
+    float: left;
+}
+.michel{
+    height: 586px;
+    width: 1027px;
+    margin-left: 92px;
+    float: left;
+}
+.text{
+    margin-top: 190px;    
+}
+.contact{
+    padding-top: 99px;
+}
+.resume{
+    width: 186px;
+    height: 586px;
+    float: left;
+    background: url('images/resume.png') no-repeat;
+}
+.portfolio{
+    margin-left: 183px;
+    width: 1668px;
+    height: 238px;
+    font-size: 35px;
+    
+}
+.portfolio p {
+    line-height: 50px;
+}
+.clear{
+    clear: both;
+}
+.work-experience{
+    height: 824px;
+    width: 500px;
+    float: left;
+    background: url('images/work-experience.png') no-repeat;
+}
+.main-text{
+    width: 2050px;
+    height: 824px;
+    float: left;
+    background: #ccccff;
+}
+.left-text{
+    height: 824px;
+    margin-left: 183px;
+    float: left;
+    margin-right: 328px;
+}
+.left-text span{
+    font-size: 20px;    
+}
+.right-text span{
+    font-size: 20px;
+    
+}
+.my-education{
+    height: 824px;
+    width: 500px;
+    float: left;
+    background: url('images/my-education.png') no-repeat;
+}
+.main-education{
+    width: 2050px;
+    height: 824px;
+    float: left;
+    background: #ffffff;
+}
+.education-left{
+    height: 824px;
+    margin-left: 183px;
+    float: left;
+    margin-right: 328px;
+}
+.education-left span{
+    font-size: 20px;    
+}
+.education-right span{
+    font-size: 20px;
+}
+.my-skill{
+    width: 500px;
+    height: 824px;
+    float: left;
+    background: url('images/my-skill.png') no-repeat;
+}
+.main-skill{
+    width: 2050px;
+    height: 824px;
+    float: left;
+    background: #ffffff;
+}
+.skill-1{
+    height: 824px;
+    margin-left: 183px;
+    float: left;
+    margin-right: 158px;
+    line-height: 70px;
+    padding: 50px 0;
+}
+.skill-1 span{
+    font-size: 35px;
+}
+.skill-2{
+    float: left;
+    height: 824px;
+    width: 915px;
+}
+.border-1,.border-2{
+    width: 427px;
+    height: 824px;
+    float: left;
+}
+.border-1 img{
+    padding: 45px 0;
+}
+.border-2 img{
+    padding: 45px 0;
+    margin-left: 60px;
+}
+.skill-3{
+    height: 824px;
+    margin-left: 183px;
+    float: left;
+    margin-left: 158px;
+    line-height: 70px;
+    padding: 50px 0;
+}
+.skill-3 span{
+    font-size: 35px;
+}
+.owner {
+  margin-top: 573px;
+  font-size: 50px;
+  margin-left: 65px;
+  color: #fff;
+}
+.name {
+  font-size: 60px;
+  margin-left: 65px;
+  color: #fff;
+  font-weight: bold;
+}
+.fullname{
+    font-size: 110px;
+    padding: 10px;
+    color: #24333e;
+}
+.bold{
+    font-weight: bold;
+}
+.job {
+  font-size: 80px;
+  text-transform: uppercase;
+  padding: 10px;
+  color: #969ea3;
+}
+.popup{
+    position: absolute;
+}
+
