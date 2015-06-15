@@ -1,0 +1,213 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 15, 2015, 11:12:21 AM
+    Author     : MinDinh
+*/
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 35px;
+    background: #fff;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+}
+#container{
+    width:2550px;
+    margin: 0 auto;
+    background: #f5f7f7;
+}
+.left-content{
+   width:500px; 
+   float:left;
+   height:824px;
+}
+.main-content{
+   width:2050px; 
+   float:left;
+   height:824px;
+}
+.profile .left-content{
+    background: url(../images/profile.png) no-repeat;
+    
+}
+.profile .main-content{
+    background: #e1e8eb;
+    
+}
+.resume{
+    background: url(../images/resume.png) no-repeat;
+    top:0;
+    margin-left: 1665px;
+    width: 185px;
+    height: 450px;
+    
+}
+
+.resume span{
+     -webkit-transform: rotate(-90deg);
+     position:absolute;
+     font-size: 50px;
+     top:140px;
+     color: #fff;
+     text-transform: uppercase;
+}
+.bold{
+    font-weight: bold;
+}
+.clear{
+    clear: both;
+}
+.info {
+  float: left;
+  margin-top: 130px
+}
+ img.avatar {
+    float: left;
+    margin: 130px 100px 80px 130px;
+}
+.fullname{
+    font-size: 110px;
+    padding: 10px;
+    color: #24333e;
+}
+
+.job {
+  font-size: 80px;
+  text-transform: uppercase;
+  padding: 10px;
+  color: #969ea3;
+}
+.contact {
+  margin-top: 100px;
+  padding: 10px;
+}
+.email{
+    background: url(../images/email.png) left no-repeat ;
+    padding: 55px;
+}
+.phone{
+    background: url(../images/phone.png) left no-repeat;
+    padding: 55px;
+}
+.portfolio{
+    margin-left: 180px;
+    float: left;
+    font-size: 50px;
+    height: 120px;
+    line-height: 120px;
+    border-top: 1px solid #c6d5de;
+    border-bottom: 1px solid #c6d5de;
+}
+.portfolio a {
+    text-decoration: none;
+    color: #24333e;
+}
+.facebook{
+    background: url(../images/facebook.png) left no-repeat;
+    padding: 85px;
+    font-size: 35px;
+}
+.twitter{
+    background: url(../images/twitter.png) left no-repeat;
+    padding: 85px;
+    font-size: 35px;
+}
+.be{
+    background: url(../images/be.png) left no-repeat;
+    padding: 85px;
+    font-size: 35px;
+}
+
+/*******************/
+.experience .left-content{
+    background: url(../images/experience.png) no-repeat;
+    
+}
+.experience .main-content{
+    background: #dce5ea;
+    
+}
+
+.company-work{
+    margin: 100px 90px 80px 130px;
+    font-size: 60px;
+    color: #24333e;
+}
+.name-work {
+  margin: 100px 400px 80px 130px;
+  float: left;
+  font-size: 60px;
+  color: #24333e;
+}
+p.timework, p.description{
+  font-size: 45px;
+}
+/****************/
+.education .left-content{
+    background: url(../images/education.png) no-repeat;
+    
+}
+.education .main-content{
+    background: #e7edec;
+    
+}
+.school-edu{
+    margin: 100px 90px 80px 130px;
+    font-size: 60px;
+    color: #24333e;
+}
+.name-edu {
+  margin: 100px 400px 80px 130px;
+  float: left;
+  font-size: 60px;
+  color: #24333e;
+}
+p.time-edu, p.description-edu{
+  font-size: 45px;
+}
+
+/****************/
+.skills .left-content{
+    background: url(../images/skills.png) no-repeat;
+    
+}
+.skills .main-content{
+    background: #edede8;
+    
+}
+
+.skills-score{
+   margin: 65px 50px 5px 130px;
+   float:left;
+}
+
+
+ .skills-score {
+  background: url(../images/score-1.png) right 2px no-repeat;
+  width: 750px;
+}
+
+.owner {
+  margin-top: 573px;
+  font-size: 50px;
+  margin-left: 65px;
+  color: #fff;
+}
+
+.name {
+  font-size: 80px;
+  margin-left: 65px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.popup{
+    position: absolute;
+}
