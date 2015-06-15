@@ -139,11 +139,11 @@ html, body, p{
 }
 
 .time-job {
-    margin: 0px 0px 0px 180px;
+    margin: 0px 0px 30px 180px;
 }
 
 .description{
-    margin: 0px 200px;
+    margin: 0px 200px 15px;
 }
 .company-name {
     margin: 75px 200px 40px;
