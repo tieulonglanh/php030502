@@ -123,13 +123,13 @@ html, body, p{
 }
 
 .job {
-    font-size: 50px;
+    font-size: 44px;
     width: 735px;
     float: left;
 }
 
 .job-details{
-    font-size: 50px;
+    font-size: 44px;
     float: right;
     width: 1315px;
 }
@@ -170,6 +170,41 @@ html, body, p{
     width: 2050px;
     float: right;
 }
+
+.school-edu{
+    font-size: 40px;
+    width: 735px;
+    float: left;
+}
+
+.school-edu-details{
+    font-size: 40px;
+    float: right;
+    width: 1315px;
+}
+
+.name-edu {
+    margin: 65px 200px 40px 180px;
+}
+
+.name-edu-detail {
+    margin: 65px 200px 40px;
+}
+
+.time-edu {
+    margin: 0px 0px 0px 180px;
+}
+
+.description-edu{
+    margin: 0px 200px 0px;
+}
+
+.time-edu , .description-edu {
+    font-size: 33px;
+    color: #969ea3;
+}
+
+
 .my-skills{
     height: 830px;
     background: #edede8;
