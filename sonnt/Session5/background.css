@@ -1,0 +1,20 @@
+body{
+    width: 1000px;
+    font-size: 14px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+}
+div{
+    border: 1px solid black;
+    padding: 35px;
+    background-image: url('webroot/smiley.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#div1{
+    background-origin: border-box;
+}
+#div2{
+    background-origin: content-box;
+}

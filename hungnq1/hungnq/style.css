@@ -1,0 +1,357 @@
+.frame{
+     width: 1275px;
+    height: 1640px;
+    position: relative;
+    margin:  auto;
+}
+.fist{
+    float: left;
+    width: 1275px;
+    height: 410px;
+    margin: 0 auto;
+}
+.fist-left{
+    background: #1a5076;
+    float: left;
+    width: 250px;
+    height: 410px;
+    margin: 0 auto;
+}
+.fist-left-logo{
+     padding-left: 100px;
+    padding-top: 70px;
+    position: absolute;
+}
+.fist-left p{
+    color: white;
+    font-size: 25px;
+    float: left;
+    padding-top: 245px;
+    padding-left: 100px;
+}
+.fist-right{
+    background: #e1e8eb;
+    width: 1025px;
+    height:410px; 
+    float: right;
+    position: relative;
+}
+.content{
+    width: 700px;
+    height: 280px;
+    padding-left: 100px;
+    float: left;
+}
+.square{
+    width: 200px;
+    height: 230px;
+    float: left;
+    padding-top: 40px;
+        
+}
+.text-content{
+    width: 500px;
+    height: 260px;
+    float: left;
+    text-align: left;
+}
+.text {
+    padding-top: 40px;
+    width: 250px;
+    height: 90px;
+}
+.text p{
+    font-size: 35px;
+}
+.email{
+    width: 270px;
+    height: 80px;
+    float: left;
+    padding-top: 90px;
+}
+.email p{
+    color: black;
+    font-size: 20px;
+    float: left;
+    
+}
+.email1{
+    width: 40px;
+    height: 25px;
+    float: left;
+    padding-top: 20px;
+}
+.email2{
+    padding-top: 20px;
+    width: 40px;
+    height: 25px;
+    float: left;
+}
+.phone{
+    width: 230px;
+    height: 80px;
+    float: right;
+    padding-top: 90px;
+}
+.phone1{
+    width: 40px;
+    height: 25px;
+    float: left;
+    padding-top: 20px;
+}
+.phone p{
+    color: black;
+    font-size: 20px;
+}
+hr{
+    width: 825px;
+}
+.resume{
+    width: 60px;
+    height: 170px;
+    float: right;
+    padding-right: 100px;
+    background-image: url('images/img5.png');
+    background-repeat: no-repeat;
+}
+.resume p{
+    color: white;
+    transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -o-tranform: rotate(-90deg);
+    font-size: 20px;
+    margin-right: 5px;
+    margin-top: 80px;
+}
+.text-fb{
+    width: 120px;
+    height: 30px;
+    font-size: 20px;
+    float: left;
+    padding-left: 100px;
+}
+.fb{
+    width: 260px;
+    height: 80px;
+    float: left;
+    padding-top: 5px;
+}
+.fb-logo{
+    padding-top: 10px;
+    float: left;
+}
+.fb p{
+    float: left;
+}
+.tw{
+    width: 260px;
+    height: 80px;
+    float: left;
+    padding-top: 5px;
+}
+.tw-logo{
+    padding-top: 10px;
+    float: left;
+}
+.tw p{
+    float: left;
+}
+.be{
+    width: 260px;
+    height: 80px;
+    float: right;
+    padding-top: 5px;
+}
+.be-logo{
+    padding-top: 10px;
+    float: left;
+}
+.be p{
+    float: right;
+    padding-right: 100px;
+}
+.second{
+    float: left;
+    width: 1275px;
+    height: 410px;
+    margin: 0 auto;
+}
+.second-left{
+    background: #4f80a2;
+    float: left;
+    width: 250px;
+    height: 410px;
+    margin: 0 auto;
+}
+.second-left-logo{
+    padding-left: 120px;
+    padding-top: 60px;
+    position: absolute;
+}
+.second-left p{
+    color: white;
+    font-size: 25px;
+    float: left;
+    padding-top: 245px;
+    padding-left: 100px
+}
+.second-right{
+    background: #dce5ea;
+    width: 1025px;
+    height:410px; 
+    float: right;
+    position: relative;
+}
+.content-2nd-1{
+    width: 410px;
+    height: 410px;
+    padding-left: 100px;
+    float: left;
+}
+.text{
+    width: 410px;
+    height: 70px;
+    float: left;
+}
+#type a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.express p{
+    color: #999999;
+    font-size: 15px;
+}
+
+.third{
+    float: left;
+    width: 1275px;
+    height: 410px;
+    margin: 0 auto;
+}
+.third-left{
+    background: #96b3b0;
+    float: left;
+    width: 250px;
+    height: 410px;
+    margin: 0 auto;
+}
+.third-left-logo{
+    padding-left: 100px;
+    padding-top: 70px;
+    position: absolute;
+}
+.third-left p{
+    color: white;
+    font-size: 25px;
+    float: left;
+    padding-top: 245px;
+    padding-left: 100px;
+}
+.third-right{
+    background: #e7edec;
+    width: 1025px;
+    height:410px; 
+    float: right;
+    position: relative;
+}
+.text1{
+    width: 410px;
+    height: 100px;
+    float: left;
+}
+.content-3st-1{
+    width: 410px;
+    height: 410px;
+    padding-left: 100px;
+    float: left;
+}
+.end{
+    float: left;
+    width: 1275px;
+    height: 410px;
+    margin: 0 auto;
+}
+.end-left{
+     background: #bfb28f;
+    float: left;
+    width: 250px;
+    height: 410px;
+    margin: 0 auto;
+}
+.end-left-logo{
+     padding-left: 100px;
+    padding-top: 70px;
+    position: absolute;
+}
+.end-left p{
+    color: white;
+    font-size: 25px;
+    float: left;
+    padding-top: 245px;
+    padding-left: 100px;
+}
+.end-right{
+    background: #edede8;
+    width: 1025px;
+    height:410px; 
+    float: right;
+    position: relative;
+}
+.content-end-1{
+    width: 415px;
+    height: 410px;
+    float: left;
+    padding-left: 100px;
+}
+.container{
+    width: 420px;
+    height: 80px;
+    float: left;
+}
+.text3{
+    width: 410px;
+    height: 80px;
+    float: left;
+}
+.type-1{
+ width: 150px;  
+ height: 80px;
+ float: left;
+}
+#type-1a{
+    width: 100px;
+    font-size: 25px;
+    color: #666666;
+}
+#type-1b{
+    width: 100px;
+    font-size: 10px;
+    color: #999999;
+    font-style: italic;
+}
+.express-1 p{
+    font-size: 10px;
+    color: #999999;
+}
+.prize{
+    padding-right: 30px;
+    float: right;
+    padding-top: 35px;
+}
+.text4{
+    float: right;
+    width: 405px;
+    height: 80px;
+    padding-right: 100px;
+}
+.type-2{
+    width: 150px;  
+    height: 80px;
+    float: right;
+}
+.prize-2{
+    float: left;
+    padding-top: 35px;
+}

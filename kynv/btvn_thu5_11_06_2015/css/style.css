@@ -1,0 +1,244 @@
+html, body, p{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    height: 3300px;
+    width: 2550px;
+    border: 1px solid blue;
+    margin: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.my-profile{
+    height: 820px;
+    background: #e1e8eb; 
+}
+
+.my-profile-img{
+    height: 820px;
+    width: 500px;
+    float: left;
+}
+
+.my-profile-details {
+    height: 820px;
+    width: 2050px;
+    float: right;
+}
+.profile {
+    float: left;
+}
+.profile .name {
+    font-size: 80px;
+    margin: 225px 0px 0px 0px;
+}
+
+
+.profile .careet {
+    margin: 58px 0px;
+    color: #969ea3;
+    font-size: 60px;
+}
+
+.profile .contact p{
+    display: inline;
+    font-size: 32px;
+    text-align: center;
+    margin: 0px 86px 0px 0px;;
+}
+
+.profile .contact img{
+    margin-right: 13px;
+}
+
+
+.profile-avatar{
+    background: #c5c5c5;
+    height: 462px;
+    width: 376px;
+    float: left;
+    margin: 130px 80px 80px 180px;;
+}
+
+
+.portfolio .portfolio-left{
+    margin: 80px 0px 80px 180px;
+}
+
+.portfolio{
+    float: left;
+    font-size: 50px;
+    line-height: 120px;
+}
+.portfolio a {
+    text-decoration: none;
+    color: #24333e;
+}
+
+.portfolio .facebook {
+    background: url("../img/facebook-icon.png") left no-repeat;
+    padding: 85px;
+    font-size: 35px;
+}
+
+.portfolio .twitter{
+    background: url("../img/twitter-icon.png") left no-repeat;
+    padding: 85px;
+    font-size: 35px;
+}
+
+.portfolio .behance{
+    background: url("../img/behance-icon.png") left no-repeat;
+    padding: 85px;
+    font-size: 35px;
+}
+
+.profile-resume {
+    margin: 0px 200px;
+    float: right;
+}
+
+
+.my-experience{
+  height: 830px; 
+  background: #dce5ea; 
+}
+
+.my-experience-img {
+    height: 830px;
+    width: 500px;
+    float: left;
+}
+
+.my-experience-right{
+    height: 830px;
+    width: 2050px;
+    float: right;
+    display: inline-block;
+}
+
+.job {
+    font-size: 44px;
+    width: 735px;
+    float: left;
+}
+
+.job-details{
+    font-size: 44px;
+    float: right;
+    width: 1315px;
+}
+
+.name-job {
+    margin: 75px 200px 40px 180px;
+}
+
+.time-job {
+    margin: 0px 0px 30px 180px;
+}
+
+.description{
+    margin: 0px 200px 15px;
+}
+.company-name {
+    margin: 75px 200px 40px;
+}
+.time-job, .description {
+    font-size: 33px;
+    color: #969ea3;
+}
+
+
+.my-education{
+  height: 820px;
+  background: #e7edec;
+}
+
+.my-education-img {
+    height: 820px;
+    width: 500px;
+    float: left;
+}
+
+.my-education-right{
+    height: 820px;
+    width: 2050px;
+    float: right;
+}
+
+.school-edu{
+    font-size: 40px;
+    width: 735px;
+    float: left;
+}
+
+.school-edu-details{
+    font-size: 40px;
+    float: right;
+    width: 1315px;
+}
+
+.name-edu {
+    margin: 65px 200px 40px 180px;
+}
+
+.name-edu-detail {
+    margin: 65px 200px 40px;
+}
+
+.time-edu {
+    margin: 0px 0px 0px 180px;
+}
+
+.description-edu{
+    margin: 0px 200px 0px;
+}
+
+.time-edu , .description-edu {
+    font-size: 33px;
+    color: #969ea3;
+}
+
+
+.my-skills{
+    height: 830px;
+    background: #edede8;
+}
+
+.my-skills-img{
+    height: 830px;
+    width: 500px;
+    float: left;
+}
+
+.my-skills-right{
+    height: 830px;
+    width: 2050px;
+    float: right;
+    font-size: 40px;
+}
+
+.skill-left{
+    width: 1025px;
+    float: left;
+    font-size: 40px;
+}
+.skill-name-left {
+    margin-left: 180px;
+}
+
+.skill-name-left img{
+    float: right;
+    margin-top: 70px;
+    margin-right: 25px;
+}
+
+.skill-right{
+    width: 1025px;
+    float: right;
+}
