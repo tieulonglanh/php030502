@@ -1,0 +1,45 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script>
+            var fruit = ['apple','bananar','pineapple','orange']; // mảng ban đầu
+            
+            var str = fruit.join(':');            // chuỗi sau khi nối các element trong mảng
+            console.log(str); // in ra chuỗi
+            
+            var lastelement = fruit.pop(); //  lấy ra phần tử cuối cùng của mảng
+            var secondelement = fruit.pop(); // lấy ra phần tử tiếp theo
+            
+            var str = fruit.join(':'); // : là dấu ngăn cách giữa các phần tử khi được nối lại thành chuỗi
+            
+            console.log(str);           // in chuỗi mới ra để xem kết quả 
+            console.log(lastelement); // in phần tử thứ 1 xem kết quả
+            console.log(secondelement); // in phần tử thứ 2 xem kết quả
+            
+            fruit.push('lemon','watermelon','litchi'); // Thêm 3 phần tử mới vào mảng
+            console.log(fruit); // In mảng
+            
+            var str = 'Thay Long dep trai';
+            var teacherarr = str.split(''); // Tách chuỗi thành mảng các ký tự
+            console.log(teacherarr); // in mảng vừa tạo ra
+            
+            teacherarr.reverse(); // đảo ngược mảng
+            console.log(teacherarr); // in thông tin mảng
+            console.log(teacherarr.join("")); // Nối mảng thành chuỗi
+            
+            console.log(teacherarr.shift()); // lấy ra phần tử đầu tiên của mảng
+            
+            console.log(teacherarr.sort());
+            
+        </script>
+    </head>
+    <body>
+        <div>TODO write content</div>
+    </body>
+</html>
