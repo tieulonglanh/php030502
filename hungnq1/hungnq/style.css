@@ -81,12 +81,6 @@
     float: left;
     padding-top: 20px;
 }
-.email2{
-    padding-top: 20px;
-    width: 40px;
-    height: 25px;
-    float: left;
-}
 .phone{
     width: 230px;
     height: 80px;
@@ -124,12 +118,20 @@ hr{
     margin-right: 5px;
     margin-top: 80px;
 }
+.content2{
+    padding-top:  15px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    float: left;
+    height: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
 .text-fb{
-    width: 120px;
+    width: 100px;
     height: 30px;
     font-size: 20px;
     float: left;
-    padding-left: 100px;
 }
 .fb{
     width: 260px;
@@ -145,7 +147,7 @@ hr{
     float: left;
 }
 .tw{
-    width: 260px;
+    width: 240px;
     height: 80px;
     float: left;
     padding-top: 5px;
@@ -158,7 +160,7 @@ hr{
     float: left;
 }
 .be{
-    width: 260px;
+    width: 220px;
     height: 80px;
     float: right;
     padding-top: 5px;
@@ -166,10 +168,10 @@ hr{
 .be-logo{
     padding-top: 10px;
     float: left;
+    padding-left: 80px;
 }
 .be p{
     float: right;
-    padding-right: 100px;
 }
 .second{
     float: left;

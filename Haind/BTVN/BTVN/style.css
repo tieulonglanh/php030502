@@ -1,0 +1,376 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.content{
+    width: 850px;
+    height: 1090px;
+    margin: auto;
+}
+
+.class{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+
+    position: relative;
+    top:-700px;
+}
+.class {
+    text-align: center;
+    color: #3c87be;
+}
+.toonchar{
+    width: 496px;
+    height: 276px;
+    border-radius: 12px;
+    background-color: #3c87be;
+    color: #ffffff;
+    font-size: 40px; 
+}
+.toon1{
+    padding-top: 60px;
+}
+.toon2{
+    font-size: 8px;
+    margin-top: 10px;
+}
+.toon3{
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+    font-size: 10px;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+
+
+.Myproflie{
+    width:848px;
+    height: 265px;
+
+}
+.myprofileicon{
+    width: 166px;
+    height: 265px;
+    background-color: #1a5076;
+    float: left;
+}
+.myprofileicon img{
+    padding-top: 42px;
+    float: right;
+}
+.myprofileicon p{
+    padding-top: 190px;
+    padding-left: 31px;
+    color: #ffffff;
+}
+.right1{
+    width: 678px;
+    height: 265px;
+    float:left;
+    background-color: #e1e8eb;
+}
+.image{
+    width: 124px;
+    height: 154px;
+    background-color: #c5c5c5;
+    margin-top: 42px;
+    margin-left: 60px;
+}
+.michel{
+    font-size: 33px;
+    margin-left: 211px;
+    margin-top: -120px;
+
+}
+.designer{
+    margin-left: 211px;
+    font-size: 25px;
+    color:  #c5c5c5;
+}
+.ribbon img{
+    margin-top: -133px;
+    margin-left: 556px;
+}
+.mail img{
+    margin-left: 211px;
+    margin-top: 20px;
+}
+.mail p{
+    margin-left: 232px;
+    margin-top: -19px;
+}
+.phone img{
+    margin-left: 382px;
+    margin-top: -20px;
+    position: relative;
+    top:-14px;
+}
+.phone p{
+    margin-left: 405px;
+    margin-top: -32px;
+}
+.portfolio{
+    height: 24px;
+    width: 586px;
+    margin-left: 60px;
+}
+.portfolio1{
+    width: 56px;
+    height: 24px;
+    float: left;
+}
+.portfolio1 p{
+    position: relative;
+    bottom: 13px;
+    color: #24333e;
+}
+.portfolio2 img{
+    width: 23px;
+    height: 23px;
+    float: left;
+}
+.portfolio2{
+    float: left;
+    width: 160px;
+    height: 23px;
+    font-size: 12px;
+    color: #c5c5c5;
+    text-align: center;
+    margin-left: 10px;
+}
+.portfolio2 p{
+    position: relative;
+    bottom:6px;
+    left: 3px;
+}
+
+
+.wordexperience{
+    width: 848px;
+    height: 274px;
+}
+.wordexperienceicon{
+    width: 166px;
+    height: 274px;
+    background-color: #4f80a2;
+    float: left;
+}
+.wordexperienceicon img{
+    padding-top: 53px;
+    float: right;
+}
+.wordexperienceicon p{
+    padding-top: 205px;
+    padding-left: 31px;
+    color: #ffffff;
+}
+.right2{
+    width: 678px;
+    height: 274px;
+    float: left;
+    background-color: #dce5ea;
+}
+.colum-left{
+    width: 200px;
+    height: 270px;
+    float: left;
+}
+.graphicdesigner{
+    margin-top: 22px;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.july, .april, .august{
+    margin-top: 9px;
+    margin-left: 60px;
+    font-size: 10px;
+    color: #466478
+}
+.production{
+    margin-top: 40px;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.creative{
+    margin-top: 40px;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.colum-right{
+    width: 474px;
+    height: 270px;
+    float: left;
+}
+.company{
+    margin-left: 108px;
+    margin-top: 20px;
+    font-size: 14px;
+}
+.text-company{
+    margin-left: 108px;
+    margin-top: 9px;
+    font-size: 10px;
+    color: #466478
+}
+.company1, .company2{
+    margin-left: 108px;
+    margin-top: 28px;
+    font-size: 14px;
+}
+
+
+
+
+.myeducation{
+    width: 848px;
+    height: 273px;
+}
+.myeducationicon{
+    width: 166px;
+    height: 273px;
+    float: left;
+    background-color: #96b3b0;
+}
+.myeducationicon img{
+    padding-top: 37px;
+    float: right;
+}
+.myeducationicon p{
+    margin-top: 210px;
+    margin-left: 33px;
+    color: #ffffff;
+}
+.right3{
+    width: 678px;
+    height: 273px;
+    float: left;
+    background-color: #e7edec;
+}
+.colum-left1{
+    width: 200px;
+    height: 270px;
+    float: left;
+}
+.minim{
+    margin-top: 22px;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.july1, .april1, .august1, .july2{
+    margin-top: 9px;
+    margin-left: 60px;
+    font-size: 10px;
+    color: #466478
+}
+.comodo{
+    margin-top: 29px;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.aliqiup{
+    margin-top: 29px;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.notrud{
+    margin-top: 29px;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.colum-right1{
+    width: 474px;
+    height: 270px;
+    float: left;
+}
+.loremipsum{
+    margin-left: 108px;
+    margin-top: 20px;
+    font-size: 14px;
+}
+.text-loremipsum, .text-aliqiupex, .text-notrudexercitation{
+    margin-left: 108px;
+    margin-top: 9px;
+    font-size: 10px;
+    color: #466478
+}
+.notrudexercitation, .aliqiupex, .loremipsum1{
+    margin-left: 108px;
+    margin-top: 28px;
+    font-size: 14px;
+}
+
+
+.myskill{
+    width:848px;
+    height: 270px;
+
+}
+.myskillicon{
+    width: 166px;
+    height: 272px;
+    background-color: #bfb28f;
+    float: left;
+}
+.myskillicon img{
+    padding-top: 40px;
+    float: right;
+}
+.myskillicon p{
+    padding-top: 190px;
+    padding-left: 33px;
+    color: #ffffff;
+}
+.right4{
+    width: 678px;
+    height: 272px;
+
+    float: left;
+    background-color: #edede8;
+}
+.colum-left2{
+    width: 330px;
+    height: 270px;
+    float: left;
+
+}
+.photoshop, .html, .javascrip, .spanish,.english{
+    margin-top: 19px;
+    margin-left: 60px;
+    font-size: 14px;
+    color: #466478
+}
+.number{
+    margin-top: 8px;
+    margin-left: 60px;
+    font-size: 10px;
+    color: #466478;
+}
+.photoshop img, .html img, .javascrip img, .english img, .spanish img{
+    float: right;
+    padding-right: 20px;
+}
+.colum-right2{
+    width: 330px;
+    height: 270px;
+    float: right;
+
+}
+.number1{
+    margin-left: 210px;
+    margin-top: 8px;
+    font-size: 10px;
+    color: #466478;
+}
+.lustrator img, .drawing img, .php img, .german img, .arabic img{
+    margin-left: 20px;
+    margin-top: 19px;
+    margin-right: 70px;
+}

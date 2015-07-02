@@ -220,4 +220,25 @@ html, body, p{
     height: 830px;
     width: 2050px;
     float: right;
+    font-size: 40px;
+}
+
+.skill-left{
+    width: 1025px;
+    float: left;
+    font-size: 40px;
+}
+.skill-name-left {
+    margin-left: 180px;
+}
+
+.skill-name-left img{
+    float: right;
+    margin-top: 70px;
+    margin-right: 25px;
+}
+
+.skill-right{
+    width: 1025px;
+    float: right;
 }

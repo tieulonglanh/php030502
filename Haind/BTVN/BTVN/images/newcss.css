@@ -1,0 +1,19 @@
+
+.lustrator, .drawing, .php, .german,.arabic{
+    float: right;
+    margin-top: 19px;
+    margin-right: 60px;
+    font-size: 14px;
+    color: #466478
+}
+.number1{
+    margin-top: 5px;
+    margin-left: 230px;
+    font-size: 10px;
+    color: #466478;
+}
+.lustrator img, .drawing img, .php img, .german img, .arabic img{
+    float: left;
+
+}
+
