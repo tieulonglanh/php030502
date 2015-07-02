@@ -1,0 +1,302 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.home{
+    margin: auto;
+    width: 900px;
+    height: 500px;
+
+    background: url(images/background.jpg) ; 
+    position: relative;
+}
+.giay{
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
+.nvaber a{
+    float: left;
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 10px;
+}
+.nvaber li{
+    list-style: none;  
+}
+.nvaber ul{
+    position: relative;
+    left: 600px;
+    top:50px;
+}
+.nvaber img{
+    position: relative;
+    left: 600px;
+    top:44px;
+}
+.text1{
+    color: #ffffff;
+    position: relative;
+    top:130px;
+    left: 220px;
+}
+.text2{
+    font-size: 10px;
+    position: relative;
+    color: #ffffff;
+    top:100px;
+    left: 83px;
+    
+}
+.second{
+    margin: auto;
+    width: 900px;
+    height: 90px;
+
+    position: relative;
+    background-color: #f5f6f7;
+}
+.check{
+    position: absolute;
+    top:35px;
+    left: 80px;
+    font-size: 13px;
+}
+.check2{
+    width: 140px;
+    height:18px;
+    text-align: center;
+    background: #aa9b77;
+    font-size: 10px;
+    padding-top: 9px;
+    position: absolute;
+    top:29px;
+    left: 700px;
+}
+
+.Third{
+    margin: auto;
+    width: 900px;
+    height: 400px;
+    position: relative;
+}
+.men{
+    font-size: 11px;
+    font-weight: bold;
+    position: absolute;
+    top:40px;
+    left: 50px;
+}
+.forma{
+    position: absolute;
+    width:  700px;
+    height: 2px;
+    background-color: #cccccc;
+    top:45px;
+    left: 90px;
+}
+.hang{
+    width: 898px;
+    height: 250px;
+    position: absolute;
+    top:130px;
+}
+.ao{
+    height: 248px;
+    width: 180px;
+    background: url(images/ao.jpg);
+    background-size: 178px 246px;
+    float: left;
+    margin: 0 50px;
+    position: relative;
+}
+.ao img{
+    position: absolute;
+    top:20px;
+    left: 130px;
+}
+.size{
+    color: #424242;
+    position: absolute;
+    top:13px;
+    left: 5px;
+}
+.shirt{
+    color: #aa9b77;
+    position: absolute;
+    left: 20px;
+    top:210px;
+}
+.money{
+    font-weight: bold;
+    position: absolute;
+    top:210px;
+    left: 120px;
+}
+.so{
+    position: absolute;
+    top:50px;
+    left: 810px;
+}
+
+
+
+
+
+.Third1{
+    margin: auto;
+    width: 900px;
+    height: 400px;
+    position: relative;
+}
+.men1{
+    font-size: 11px;
+    font-weight: bold;
+    position: absolute;
+    top:40px;
+    left: 750px;
+}
+.forma1{
+    position: absolute;
+    width:  650px;
+    height: 2px;
+    background-color: #cccccc;
+    top:45px;
+    left: 90px;
+}
+.hang1{
+    width: 898px;
+    height: 250px;
+    position: absolute;
+    top:130px;
+}
+.day2{
+    height: 248px;
+    width: 180px;
+    background: url(images/day2.jpg);
+    background-size: 178px 246px;
+    float: left;
+    margin: 0 50px;
+    position: relative;
+}
+.ao3{
+    height: 248px;
+    width: 180px;
+    background: url(images/ao3.jpg);
+    background-size: 178px 246px;
+    float: left;
+    margin: 0 50px;
+    position: relative;
+}
+.quan{
+    height: 248px;
+    width: 180px;
+    background: url(images/quan.jpg);
+    background-size: 178px 246px;
+    float: left;
+    margin: 0 50px;
+    position: relative;
+}
+.ao1{
+    height: 248px;
+    width: 180px;
+    background: url(images/ao1.jpg);
+    background-size: 178px 246px;
+    float: left;
+    margin: 0 50px;
+    position: relative;
+}
+.balo{
+    height: 248px;
+    width: 180px;
+    background: url(images/balo.jpg);
+    background-size: 178px 246px;
+    float: left;
+    margin: 0 50px;
+    position: relative;
+}
+.ao1 img{
+    position: absolute;
+    top:17px;
+    left: 130px;
+}
+.size1{
+    color: #424242;
+    position: absolute;
+    top:13px;
+    left: 5px;
+}
+.shirt1{
+    color: #aa9b77;
+    position: absolute;
+    left: 20px;
+    top:210px;
+}
+.money1{
+    font-weight: bold;
+    position: absolute;
+    top:210px;
+    left: 120px;
+}
+.so1{
+    position: absolute;
+    top:50px;
+    left: 810px;
+}
+.filthy{
+    width: 900px;
+    height: 220px;
+    background-color: #aa9b77;
+    margin: auto;
+    position: relative;
+}
+.text3{
+    position: absolute;
+    width: 500px;
+    height: 130px;
+    border: 3px solid #918363;
+    top:50px;
+    left: 200px;
+}
+.filthy img{
+    position: absolute;
+    left: 400px;
+    top:40px;
+}
+.text4{
+    position: absolute;
+    top:70px;
+    left: 70px;
+}
+.footer1{
+    width: 900px;
+    height: 60px;
+    margin: auto;
+    background: #535253;
+    position: relative;
+    
+}
+.footer1 img{
+    position: absolute;
+    top:20px;
+    left: 30px;
+}
+.text5{
+    position: absolute;
+    top:20px;
+    left: 70px;
+    color: #ffffff;
+}
+.footer2{
+    margin: auto;
+    width: 900px;
+    height: 200px;
+    background-color: #424242;
+    position: relative;
+}
+.footer2 h5{
+    color: #ffffff;
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
