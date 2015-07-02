@@ -1,0 +1,103 @@
+html, body,p {
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: auto;
+    width: 1290px;
+}
+.slide{
+    background: url("../img/slide.png")left no-repeat;
+    height: 790px;
+    text-align: center;
+}
+.slide menu {
+    float: right;
+}
+.slide-text h1, .slide-text h3{
+    color: white;
+}
+
+.slide .menu a {
+    text-decoration: none;
+    padding: 25px 50px 0px 26px;
+    line-height: 22px;
+}
+.slide li{
+    list-style: none;
+    float: right;
+    margin: 0px;
+    padding: 0px;
+}
+
+.slide .icon-giay{
+    margin: 40px 1173px 0px 64px;
+    float: left;
+}
+
+
+.slide .icon-dow {
+    margin: 431px 623px 47px 623px;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.sercord{
+    height: 143px;
+    background: #f5f6f7;
+}
+
+.sercord .see-prod{
+    height: 52px;
+    width: 202px;
+    background: #aa9b77;
+    float: right;
+    margin: 45px 95px 45px 980px;
+}
+
+.sercord .see-prod p{
+    color: white;
+    text-align: center;
+}
+
+.third{
+    height: 635px;
+}
+
+.fourth{
+    height: 673px;
+    border: 1px blue solid;
+}
+
+.fithty{
+    height: 403px;
+    background: #aa9b77;
+}
+
+.footer{
+    height: 422px;
+    background: #424242;
+}
+
+.footer .twitter {
+    height: 71px;
+    background: #535253;
+}
+.footer .twitter img{
+    margin: 23px 1220px 23px 64px;
+    float: left;
+}
+.footer .twitter p{
+    color: white;
+    float: left;
+}
+
+.footer .footer-text{
+    height: 351px;
+}
+
+.clear{
+    clear: both;
+}
